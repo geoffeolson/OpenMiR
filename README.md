@@ -1,0 +1,4 @@
+OpenMiR
+=======
+
+Modular Industrial Robotics
